@@ -47,8 +47,8 @@
     <div id="main-container" class="container-fluid">
         <h1>Corpo do Site</h1>
     </div>
-    <footer>
-        <div class="social-container">
+    <footer id="footer">
+        <div id="social-container">
             <ul>
                 <li>
                     <a href="#"><i class="fab fa-facebook-square"></i></a>
